@@ -1,0 +1,6 @@
+yfinance
+pandas
+plotly
+pandas_datareader
+scipy
+numpy
