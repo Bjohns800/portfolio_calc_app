@@ -1,5 +1,5 @@
 import streamlit as st
-from PortfoliotheoryCalc import *
+from portfolio_calc import *
 import plotly.express as px
 
 
