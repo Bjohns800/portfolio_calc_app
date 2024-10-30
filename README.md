@@ -1,4 +1,4 @@
-# Monte Carlo Option Pricing
+# Portfolio Theory Web App
 
 This project provides a Python script to modern portfolio theory analysis based on Harry Markowitz's principles. It's especially useful for visualising the risk return relationship within the market. Additionally, the project includes a Streamlit web app for visualizing the results. The final result is deployed as [Portfolio Theory Web App](https://portfoliocalcapp-ukfuypapshw6i8mek946qb.streamlit.app/)
 
